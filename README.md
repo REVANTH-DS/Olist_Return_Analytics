@@ -8,16 +8,13 @@
 An end-to-end Data Analytics, Applied Statistics, and Machine Learning pipeline designed to quantify financial loss from product returns, evaluate logistics fulfillment bottlenecks, and segment customer return behaviors using the public **Olist Brazilian E-Commerce Dataset** (113,314 transactional records).
 
 ---
-
 ## 📱 Interactive Dashboard Showcase
 
-The decision-support web portal built with **Streamlit** and **Plotly** provides real-time financial tracking and operational insights.
-
 ### 1. Executive Summary & Cluster Breakdown
-![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard Overview](assets/Screenshot%202026-10-25%20223601.png)
 
 ### 2. Logistics Root-Cause & Payment Method Analysis
-![Logistics Analysis](assets/logistics_analysis.png)
+![Logistics Analysis](assets/Screenshot%202026-10-25%20223614.png)
 
 ---
 
