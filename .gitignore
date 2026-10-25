@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Large Raw Datasets (Keep output CSVs if small, or ignore all CSVs)
+olist_orders_dataset.csv
+olist_order_items_dataset.csv
+olist_products_dataset.csv
+olist_order_payments_dataset.csv
+olist_order_reviews_dataset.csv
+olist_customers_dataset.csv
+olist_geolocation_dataset.csv
+olist_sellers_dataset.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
